@@ -1,0 +1,72 @@
+==================================================
+----------------------------------------
+Line 1: Int a = 1;
+
+Lexeme: Int             	 Token: NOT_DEFINED
+Lexeme: a               	 Token: NOT_DEFINED
+Lexeme: =               	 Token: ASSIGNMENT_OPERATOR
+Lexeme: 1               	 Token: INTEGER_LITERAL
+Lexeme: ;               	 Token: SEMICOLON
+----------------------------------------
+
+
+----------------------------------------
+Line 2: Int b = 3;
+
+Lexeme: Int             	 Token: NOT_DEFINED
+Lexeme: b               	 Token: NOT_DEFINED
+Lexeme: =               	 Token: ASSIGNMENT_OPERATOR
+Lexeme: 3               	 Token: INTEGER_LITERAL
+Lexeme: ;               	 Token: SEMICOLON
+----------------------------------------
+
+
+----------------------------------------
+Line 3: While a < b do
+
+Lexeme: While           	 Token: NOT_DEFINED
+Lexeme: a               	 Token: NOT_DEFINED
+Lexeme: <               	 Token: LESS_OPERATOR
+Lexeme: b               	 Token: NOT_DEFINED
+Lexeme: do              	 Token: DO_KEYWORD
+----------------------------------------
+
+
+----------------------------------------
+Line 4: a = a +1;
+
+Lexeme: a               	 Token: NOT_DEFINED
+Lexeme: =               	 Token: ASSIGNMENT_OPERATOR
+Lexeme: a               	 Token: NOT_DEFINED
+Lexeme: +1              	 Token: INTEGER_LITERAL
+Lexeme: ;               	 Token: SEMICOLON
+----------------------------------------
+
+
+----------------------------------------
+Line 5: Print a;
+
+Lexeme: Print           	 Token: INT_KEYWORD
+Lexeme: a               	 Token: INTEGER_IDENTIFIER
+Lexeme: ;               	 Token: SEMICOLON
+----------------------------------------
+
+
+----------------------------------------
+Line 6: endWhile
+
+Lexeme: endWhile        	 Token: ENDWHILE_KEYWORD
+----------------------------------------
+
+
+----------------------------------------
+Line 7: 
+
+----------------------------------------
+
+
+----------------------------------------
+Line 8: 
+
+----------------------------------------
+

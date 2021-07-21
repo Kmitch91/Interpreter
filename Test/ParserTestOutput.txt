@@ -1,0 +1,38 @@
+==================================================
+Parsing <program>
+ Parsing <declare>
+ 	Parsing <expr>
+ 		Parsing <term>
+ 			Parsing <factor>
+ 			Finished parsing <factor>
+ 		Finished parsing <term>
+ 	Finished parsing <expr>
+ Finished parsing <declare>
+  Parsing <declare>
+ 	Parsing <expr>
+ 		Parsing <term>
+ 			Parsing <factor>
+ 			Finished parsing <factor>
+ 		Finished parsing <term>
+ 	Finished parsing <expr>
+  Parsing <while_loop>
+ 	Parsing <expr>
+ 		Parsing <term>
+ 			Parsing <factor>
+ 			Finished parsing <factor>
+ 		Finished parsing <term>
+ 	Finished parsing <expr>
+ Finished parsing <while_loop>
+  Parsing <assignment>
+ 	Parsing <expr>
+ 		Parsing <term>
+ 		Finished parsing <term>
+ 	Finished parsing <expr>
+ Finished parsing <assignment>
+ Parsing <print_method>
+ 	Parsing <expr>
+ 		Parsing <term>
+ 		Finished parsing <term>
+ 	Finished parsing <expr>
+ Finished parsing <print_method>
+Finished parsing <program>
